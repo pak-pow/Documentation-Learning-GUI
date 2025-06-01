@@ -81,7 +81,7 @@ Before diving in, make sure you have:
 - **Official Kivy Documentation**:  
   https://kivy.org/doc/stable/
 
-- **Kivy Crash Course (YouTube)**:  
+- **Kivy Tutorial Python(YouTube)**:  
   https://youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn&si=FgD06NPezieoPK1U
 
 - **Kivy GitHub Examples**:  

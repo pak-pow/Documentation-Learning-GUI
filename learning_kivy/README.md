@@ -82,7 +82,7 @@ Before diving in, make sure you have:
   https://kivy.org/doc/stable/
 
 - **Kivy Crash Course (YouTube)**:  
-  https://www.youtube.com/playlist?list=PLpL0sQGzqNMnCo6xcQNJ6pUVIbzpFgjkc
+  https://youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn&si=FgD06NPezieoPK1U
 
 - **Kivy GitHub Examples**:  
   https://github.com/kivy/kivy/tree/master/examples

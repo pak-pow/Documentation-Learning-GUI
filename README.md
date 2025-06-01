@@ -9,17 +9,15 @@ Welcome to **Documentation-Learning-GUI**, a centralized repository where I docu
 
 ## 📁 Repository Structure
 
-Documentation-Learning-GUI/
-├── README.md ← (You’re here)
+```
+Documentation-Learning-GUI
+├── README.md                 ← (You’re here)
 └── learning_kivy/
-├── README.md ← (Kivy-specific documentation)
-└── learning_kivy_day1.pdf ← (Day 1 of Kivy notes & examples)
+    ├── README.md            ← (Kivy-specific documentation)
+    └── learning_kivy_day1.pdf ← (Day 1 of Kivy notes & examples)
+```
 
-yaml
-Copy
-Edit
-
-- **learning_kivy/**  
+- **learning_kivy**  
   Contains all resources for my Kivy learning path—PDFs, code snippets, demo apps, and instructions.
 
 ---
@@ -65,4 +63,4 @@ Edit
 ---
 
 Thanks for dropping by and happy learning!  
-— _Vee (PakPow)_ 
+— _Vee (PakPow)_

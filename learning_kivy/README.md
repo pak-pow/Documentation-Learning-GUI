@@ -68,11 +68,26 @@ Before diving in, make sure you have:
 
 ---
 
-## 🚧 Upcoming Content
+## 📖 **Day 2: learning_kivy_day#2.pdf**  
 
-- **Day 2 PDF**: Advanced layouts (GridLayout, AnchorLayout, FloatLayout)  
-- **Sample Code**: I’ll add small Python script examples (`.py` and `.kv` files) as I build them.  
-- **Mini Projects**: A to-do list app, a simple image gallery, and possibly a Tic-Tac-Toe game (leveraging what I learned).
+**Topics covered:**
+
+- Deeper understanding of the `.kv` language and its role in separating UI from logic  
+- Creating a clean form layout using nested `GridLayout`s  
+- Connecting UI elements (`Button`, `TextInput`) from the `.kv` file to Python functions  
+- Exploring widget properties like `id`, `text`, and `multiline`
+
+**Highlights:**
+
+- Successfully created a simple input form with fields for Name, Age, and Email  
+- Linked the **Submit** button to a Python method using `on_press`  
+- Realized how straightforward and fun it is to connect design to functionality in Kivy
+
+**How to view:**
+
+- Open `learning_kivy_day#2.pdf` in your favorite PDF reader  
+- See layout structure, code examples, and notes on `.kv` file behavior and UI wiring
+
 
 ---
 

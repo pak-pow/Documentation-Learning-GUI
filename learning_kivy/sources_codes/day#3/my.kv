@@ -1,0 +1,19 @@
+<Button>:
+    font_size: 20
+    color: 0,0.255,0,1
+    size_hint: 0.4, 0.4
+
+<FloatLayout>:
+    Button:
+        id: btn
+        pos_hint: {"x":0.5, "top":0.9}
+        text: "Hello" if btn.state == "normal" else "Pressed"
+        background_color: 0.115, 0.255, 0.255, 1
+
+<Touch>:
+
+    btn: btn
+
+    Button:
+        id: btn
+        text: "My Btn"
